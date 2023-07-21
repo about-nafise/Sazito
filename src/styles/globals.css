@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-color: #ccc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@font-face {
+  font-family: "Yekan";
+  src: url("../assets/font/Yekan.ttf");
+}
+
+body {
+  font-family: Yekan;
+  direction: rtl;
+  color: #000;
+  background: var(--bg-color);
+}

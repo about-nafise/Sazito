@@ -1,0 +1,182 @@
+{
+  "result": {
+    "max_price": 3255,
+
+    "min_price": 1000,
+
+    "page_number": 1,
+
+    "page_size": 20,
+
+    "products": [
+      {
+        "id": "1",
+        "name": "product 1",
+        "price": 2955,
+        "date": "2021-10-07T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 1
+      },
+      {
+        "id": "2",
+        "name": "product 2",
+        "price": 2955,
+        "date": "2021-09-07T20:20:22.953205+02:00",
+        "category": 1,
+        "sale_count": 7
+      },
+      {
+        "id": "3",
+        "name": "product 3",
+        "price": 2955,
+        "date": "2022-10-07T20:20:22.953205+02:00",
+        "category": 2,
+        "sale_count": 17
+      },
+      {
+        "id": "4",
+        "name": "product 4",
+        "price": 2955,
+        "date": "2021-10-02T20:20:22.953205+02:00",
+        "category": 3,
+        "sale_count": 15
+      },
+      {
+        "id": "5",
+        "name": "product 5",
+        "price": 2955,
+        "date": "2021-12-07T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 3
+      },
+      {
+        "id": "6",
+        "name": "product 6",
+        "price": 2955,
+        "date": "2018-10-07T20:20:22.953205+02:00",
+        "category": 1,
+        "sale_count": 31
+      },
+      {
+        "id": "7",
+        "name": "product 7",
+        "price": 2955,
+        "date": "2023-10-07T20:20:22.953205+02:00",
+        "category": 2,
+        "sale_count": 23
+      },
+      {
+        "id": "8",
+        "name": "product 8",
+        "price": 2955,
+        "date": "2021-10-31T20:20:22.953205+02:00",
+        "category": 3,
+        "sale_count": 22
+      },
+      {
+        "id": "9",
+        "name": "product 9",
+        "price": 2955,
+        "date": "2010-10-07T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 19
+      },
+      {
+        "id": "10",
+        "name": "product 10",
+        "price": 2955,
+        "date": "2021-10-22T20:20:22.953205+02:00",
+        "category": 2,
+        "sale_count": 26
+      },
+      {
+        "id": "11",
+        "name": "product 11",
+        "price": 2955,
+        "date": "2021-03-07T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 1
+      },
+      {
+        "id": "12",
+        "name": "product 12",
+        "price": 2955,
+        "date": "2021-1008-07T20:20:22.953205+02:00",
+        "category": 2,
+        "sale_count": 3
+      },
+      {
+        "id": "13",
+        "name": "product 13",
+        "price": 2955,
+        "date": "2021-10-30T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 2
+      },
+      {
+        "id": "14",
+        "name": "product 14",
+        "price": 2955,
+        "date": "2021-10-17T20:20:22.953205+02:00",
+        "category": 1,
+        "sale_count": 16
+      },
+      {
+        "id": "15",
+        "name": "product 15",
+        "price": 2955,
+        "date": "2022-10-17T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 9
+      },
+      {
+        "id": "16",
+        "name": "product 16",
+        "price": 2955,
+        "date": "2016-10-16T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 21
+      },
+      {
+        "id": "17",
+        "name": "product 17",
+        "price": 2955,
+        "date": "2017-10-27T20:20:22.953205+02:00",
+        "category": 1,
+        "sale_count": 2
+      },
+      {
+        "id": "18",
+        "name": "product 18",
+        "price": 2955,
+        "date": "2022-10-22T20:20:22.953205+02:00",
+        "category": 2,
+        "sale_count": 22
+      },
+      {
+        "id": "19",
+        "name": "product 19",
+        "price": 2955,
+        "date": "2011-10-11T20:20:22.953205+02:00",
+        "category": 0,
+        "sale_count": 14
+      },
+      {
+        "id": "20",
+        "name": "product 20",
+        "price": 2955,
+        "date": "2009-10-09T20:20:22.953205+02:00",
+        "category": 2,
+        "sale_count": 8
+      },
+      {
+        "id": "21",
+        "name": "product 21",
+        "price": 2955,
+        "date": "2012-12-09T20:20:22.953205+02:00",
+        "category": 3,
+        "sale_count": 20
+      }
+    ]
+  }
+}
